@@ -13,5 +13,5 @@ I value collaborations and I am always eager to grow and develop as a profession
 Power BI, SQL, Tableau, Python
 
 
-## Other Common Github Profile Sections
+## 🧰 Working on..
 👩‍💻 I'm currently working on improving my Data Engineering skills. 
