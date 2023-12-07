@@ -9,12 +9,16 @@ I enjoy working with data and finding patterns and insights that can help improv
 
 I value collaborations and I am always eager to grow and develop as a professional.
 
+
+
 ## 🛠 Skills
 Power BI, SQL, Tableau, Python
 
 
+
 ## 🧰 Working on..
 👩‍💻 I'm currently working on improving my Data Engineering skills. 
+
 
 
 ## 📚 Projects
