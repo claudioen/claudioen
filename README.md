@@ -15,3 +15,7 @@ Power BI, SQL, Tableau, Python
 
 ## 🧰 Working on..
 👩‍💻 I'm currently working on improving my Data Engineering skills. 
+
+
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
