@@ -3,7 +3,7 @@
 
 
 ### 🚀 About Me
-I'm a Data Analyst and Data enthusiast from Italy. 
+I'm a Data Analyst with expertise in data analysis and reporting.
 
 I enjoy working with data and finding patterns and insights that can help improve the performance. 
 
