@@ -11,13 +11,14 @@ I value collaborations and I am always eager to grow and develop as a profession
 
 
 
-### 🛠 Skills
+### 🛠 Tools
 Power BI, SQL, Tableau, Python
 
 
 
-### 🧰 Working on..
-👩‍💻 I'm currently working on improving my Data Engineering skills. 
+### 🌱 I'm currently learning..
+* Python (Advance)
+* Apache Spark 
 
 
 
