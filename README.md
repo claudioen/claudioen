@@ -12,13 +12,13 @@ I value collaborations and I am always eager to grow and develop as a profession
 
 
 ### 🛠 Tools
-Power BI, SQL, Tableau, Python
+Power BI, SQL, Tableau, Python, Apache Spark
 
 
 
 ### 🌱 I'm currently learning..
-* Python (Advance)
-* Apache Spark 
+* Apache Spark
+* Python
 
 
 
