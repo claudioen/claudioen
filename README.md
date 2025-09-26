@@ -3,7 +3,7 @@
 
 
 ### 👋 About Me
-Hi, I'm **Claudio**, a passionate **Analytics Engineer** based in **DUBLIN** with **4+ years** of experience. <br/>I specialize in SQL, PYTHON, R, SCALA.
+Hi, I'm **Claudio**, a passionate **Data and Business Analyst** based in **DUBLIN** with **4+ years** of experience. <br/>I specialize in SQL, PYTHON, R, SCALA.
 
 ## 📬 Contact
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
